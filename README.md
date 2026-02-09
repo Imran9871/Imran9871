@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Imran 👋
 
-<!--
-**Imran9871/Imran9871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Mobile & Web Developer
 
-Here are some ideas to get you started:
+I specialize in building cross-platform applications using **Flutter** and **React**,  
+with **Java** for backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Mobile:** Flutter, Dart
+- **Web:** React, TypeScript
+- **Backend:** Go Lang, REST APIs
+- **Tools:** Git, GitHub, Firebase
+
+### 📌 Current Focus
+- Scalable Flutter apps
+- Clean architecture & performance
+- Real-world tracking & logistics systems
+
+### 🌐 Connect with me
+- LinkedIn: https://linkedin.com/in/imran-951132243
+- Location: Bangalore, India
