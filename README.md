@@ -9,7 +9,7 @@ with **Go Lang** for backend development.
 - **Mobile:** Flutter, Dart
 - **Web:** React, TypeScript
 - **Backend:** Go Lang, REST APIs
-- **Tools:** Git, GitHub, Firebase
+- **Tools:** Git, GitHub, Firebase, GCP, S3
 
 ### 📌 Current Focus
 - Scalable Flutter apps
