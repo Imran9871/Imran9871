@@ -3,7 +3,7 @@
 ## 🚀 Mobile & Web Developer
 
 I specialize in building cross-platform applications using **Flutter** and **React**,  
-with **Java** for backend development.
+with **Go Lang** for backend development.
 
 ### 🛠 Tech Stack
 - **Mobile:** Flutter, Dart
