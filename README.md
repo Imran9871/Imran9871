@@ -1,6 +1,6 @@
 # Hi, I'm Imran 👋
 
-🚀 **Senior Software Engineer | Flutter & Cross-Platform Developer**
+🚀 **Software Engineer | Flutter & Cross-Platform Developer**
 
 I build scalable cross-platform applications and real-time systems using **Flutter and modern cloud technologies**.
 My work focuses on **offline-first architecture, real-time data processing, and high-performance mobile platforms**.
