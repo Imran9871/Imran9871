@@ -1,54 +1,64 @@
 # Hi, I'm Imran 👋
 
-Software Engineer focused on building scalable, high-performance cross-platform applications and real-time mobile systems.
+Software Engineer specializing in building scalable cross-platform applications, real-time mobile systems, and offline-first architecture.
 
-I enjoy solving engineering problems around scalability, offline-first architecture, synchronization, performance optimization, and cost-efficient application design.
+I enjoy solving engineering challenges around application scalability, performance optimization, real-time synchronization, and building reliable mobile applications that continue to perform well even in low-connectivity environments.
 
-## What I'm Working On
+---
 
-* Real-time Fleet Management Systems
+## 🚀 What I Build
+
+* Real-time Fleet Management Platforms
 * Vehicle Tracking & Driver Analytics
-* Offline-First Mobile Platforms
-* Scalable Flutter Architecture
-* Backend Development with Go
+* Offline-First Mobile Applications
+* Cross-Platform Applications (Android • iOS • Web • Desktop)
+* Enterprise Mobility Solutions
 
-## Engineering Focus
+---
 
-* Cross-Platform Application Development
+## 💡 Engineering Focus
+
+* Scalable Mobile Architecture
 * Offline Data Synchronization
-* Real-Time Location Systems
-* Performance Optimization
+* Real-Time Location & Tracking Systems
+* Performance & Memory Optimization
 * Cost Optimization
 * Clean Architecture
-* State Management (Bloc, Riverpod)
-* REST API Design & Integration
+* REST API Integration
 * Local Database Design
-* Application Security
+* Secure Mobile Development
 * CI/CD Automation
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 ### Mobile
 
 * Flutter
 * Dart
 
+### State Management
+
+* Bloc
+* Riverpod
+* Provider
+
 ### Backend
 
-* Go (Learning)
 * REST APIs
+* Currently learning Go (Golang)
 
-### Databases
+### Local Storage
 
 * SQLite
 * Hive
-* Firebase Firestore
+* SharedPreferences
+* Flutter Secure Storage
 
-### Cloud
+### Cloud & Backend Services
 
-* Firebase
-* Google Cloud Platform
-* AWS S3
+* Firebase (Authentication, Firestore, Cloud Storage, FCM)
 
 ### Tools
 
@@ -56,18 +66,32 @@ I enjoy solving engineering problems around scalability, offline-first architect
 * GitHub
 * Android Studio
 * VS Code
+* Postman
 
-## Current Learning
+---
 
-* Go Backend Development
+## 📚 Currently Learning
+
+* Go (Golang)
+* AWS
+* Google Cloud Platform (GCP)
+* Supabase
 * Distributed Systems
 * System Design
 * Kubernetes
+* CI/CD
 * Cloud Architecture
 
-## Let's Connect
+---
 
-📍 Bengaluru, India
+## 🌱 Engineering Philosophy
 
-LinkedIn:
-linkedin.com/in/imran-951132243
+I believe great software goes beyond delivering features. My focus is on designing maintainable, scalable, and cost-efficient systems that provide a reliable user experience while remaining easy to extend and operate. I enjoy improving application architecture, reducing operational costs, and continuously learning better engineering practices.
+
+---
+
+## 📫 Connect With Me
+
+📍 Bengaluru, Karnataka, India
+
+🔗 LinkedIn: linkedin.com/in/imran-951132243
