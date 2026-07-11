@@ -1,64 +1,73 @@
 # Hi, I'm Imran 👋
 
-🚀 **Software Engineer | Flutter & Cross-Platform Developer**
+Software Engineer focused on building scalable, high-performance cross-platform applications and real-time mobile systems.
 
-I build scalable cross-platform applications and real-time systems using **Flutter and modern cloud technologies**.
-My work focuses on **offline-first architecture, real-time data processing, and high-performance mobile platforms**.
+I enjoy solving engineering problems around scalability, offline-first architecture, synchronization, performance optimization, and cost-efficient application design.
 
-Currently working on **fleet management and vehicle tracking systems** that help organizations monitor vehicles, analyze driver behavior, and optimize operations.
+## What I'm Working On
 
----
+* Real-time Fleet Management Systems
+* Vehicle Tracking & Driver Analytics
+* Offline-First Mobile Platforms
+* Scalable Flutter Architecture
+* Backend Development with Go
 
-## 🛠 Tech Stack
+## Engineering Focus
 
-**Mobile Development**
+* Cross-Platform Application Development
+* Offline Data Synchronization
+* Real-Time Location Systems
+* Performance Optimization
+* Cost Optimization
+* Clean Architecture
+* State Management (Bloc, Riverpod)
+* REST API Design & Integration
+* Local Database Design
+* Application Security
+* CI/CD Automation
+
+## Tech Stack
+
+### Mobile
 
 * Flutter
 * Dart
 
-**Web**
+### Backend
 
-* React
-* JavaScript / TypeScript
-
-**Backend (Learning)**
-
-* Go (Golang)
+* Go (Learning)
 * REST APIs
 
-**Cloud & Tools**
+### Databases
+
+* SQLite
+* Hive
+* Firebase Firestore
+
+### Cloud
 
 * Firebase
-* Google Cloud Platform (GCP)
+* Google Cloud Platform
 * AWS S3
-* Git & GitHub
 
----
+### Tools
 
-## 📌 Areas of Expertise
+* Git
+* GitHub
+* Android Studio
+* VS Code
 
-* Cross-platform development (Android • iOS • Web • Desktop)
-* Real-time systems & data synchronization
-* Offline-first mobile architecture
-* State management (Riverpod, Bloc, Provider)
-* REST API integrations
-* Scalable mobile application architecture
-* Play Store & App Store deployment
+## Current Learning
 
----
+* Go Backend Development
+* Distributed Systems
+* System Design
+* Kubernetes
+* Cloud Architecture
 
-## 🌍 Current Focus
+## Let's Connect
 
-* Building **scalable Flutter applications**
-* **Real-time fleet tracking systems**
-* **Offline-first mobile platforms**
-* Learning **backend development with Go**
+📍 Bengaluru, India
 
----
-
-## 🌐 Connect with Me
-
-📍 **Bangalore, India**
-
-🔗 LinkedIn
-https://linkedin.com/in/imran-951132243
+LinkedIn:
+linkedin.com/in/imran-951132243
